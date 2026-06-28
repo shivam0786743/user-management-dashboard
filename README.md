@@ -1,10 +1,10 @@
-# Aura Admin - User Management Dashboard
+# User Management Dashboard
 
 Aura Admin is a production-quality, responsive User Management Dashboard designed to simulate a real-world Software-as-a-Service (SaaS) administration panel. It features modular component design, clean state segregation, and robust validation structures. The user interface matches modern design systems (similar to Stripe, Vercel, and Linear) with smooth transitions, interactive animations, and responsive dark mode support.
 
 ---
 
-## 🚀 Live Demo & Visual Polish
+##  Live Demo & Visual Polish
 - **Modern SaaS Aesthetics**: Sleek dark and light color palette using zinc and blue primaries, rounded corners, soft shadows, hover transitions, and glassmorphic portal overlays.
 - **Micro-Animations**: Hover animations on actionable items, sliding notifications, and fading backdrop animations for modal overlays.
 - **Responsiveness**: A desktop-first sticky header table that transforms into cards on mobile and tablet displays to eliminate horizontal scrolling.
