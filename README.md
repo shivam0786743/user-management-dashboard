@@ -1,6 +1,6 @@
 # User Management Dashboard
 
-Aura Admin is a production-quality, responsive User Management Dashboard designed to simulate a real-world Software-as-a-Service (SaaS) administration panel. It features modular component design, clean state segregation, and robust validation structures. The user interface matches modern design systems (similar to Stripe, Vercel, and Linear) with smooth transitions, interactive animations, and responsive dark mode support.
+User Management Dashboard is a production-quality, responsive User Management Dashboard designed to simulate a real-world Software-as-a-Service (SaaS) administration panel. It features modular component design, clean state segregation, and robust validation structures. The user interface matches modern design systems (similar to Stripe, Vercel, and Linear) with smooth transitions, interactive animations, and responsive dark mode support.
 
 ---
 
